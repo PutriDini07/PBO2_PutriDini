@@ -1,4 +1,4 @@
-package inventory;
+package Project_5;
 
 public class Product {
 	//Instance field declarations
