@@ -2,7 +2,7 @@ package Project_4;
 
 public class Product {
 	//Instance field declarations
-	private int itemNumber;		//unique value for identification
+    private int itemNumber;		//unique value for identification
     private String name;		//name of the product
     private int qtyInStock;		//quantity in stock
     private double price;		//price of the product
